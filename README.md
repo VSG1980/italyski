@@ -1,2 +1,3 @@
 # italyski
 This was quite a challenge, managed to get it to a place where i felt comfortable with submitting. There was alot of trial and error with getting the images right, i used squoosh for resizing. Getting the website responsive with iphone compatibility was also abit of a challenge for me, however using google and some checking with chat gpt aswell i got there in the end. I used images from my trip, added music, used hover for font colors, added social media icons. The whole works!!!! I feel the coding could be cleaner, but i'm getting there.
+It took quite a while as well to creat the git repository, i just wasnt getting it right, but i got there in the end.
